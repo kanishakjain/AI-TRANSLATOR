@@ -2,7 +2,7 @@ import streamlit as st
 from utils import inject_custom_css
 
 st.set_page_config(
-    page_title="Mirai | Every Voice Understood",
+    page_title="TranslateX | Every Voice Matters",
     page_icon="🌌",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -13,8 +13,8 @@ inject_custom_css()
 # --- MAIN APP LAYOUT ---
 st.markdown("""
 <div class="hero-section animated">
-    <div class="glowing-title">Mirai</div>
-    <div class="subtitle">Every Voice Understood</div>
+    <div class="glowing-title">TranslateX</div>
+    <div class="subtitle">Every Voice Matters</div>
     <div class="hero-desc">A futuristic AI-powered multilingual translator focused on breaking language barriers through intelligent communication and document translation.</div>
 </div>
 """, unsafe_allow_html=True)
