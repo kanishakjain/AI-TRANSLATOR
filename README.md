@@ -1,4 +1,4 @@
-# Mirai: Every Voice Understood
+# TranslateX: Every Voice Matters
 
 A futuristic AI-powered multilingual translator web app focused on breaking language barriers through intelligent communication and document translation. Features a premium, minimal, and futuristic glassmorphism UI.
 
