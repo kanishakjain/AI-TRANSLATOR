@@ -63,7 +63,7 @@ with st.sidebar:
             st.caption(f"Output: {item['output'][:50]}...")
             st.divider()
 
-st.markdown("<h2 style='text-align: center; color: #4facfe;'>Mirai Translator</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: #4facfe;'>TranslateX Translator</h2>", unsafe_allow_html=True)
 
 # Top controls: Language Selection and Swap Button
 col1, col2, col3 = st.columns([4, 1, 4])
